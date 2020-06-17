@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Indicator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QUANTAXIS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuantHelper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/channew/chan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gm_chan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mootdx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytdx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytdxtrader" vcs="Git" />
+  </component>
+</project>
